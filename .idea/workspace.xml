@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec6b7335-81fe-4185-95eb-060630a73a10" name="Default" comment="" />
+    <list default="true" id="ec6b7335-81fe-4185-95eb-060630a73a10" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../FileContentComparator/.idea/misc.xml" afterPath="$PROJECT_DIR$/../FileContentComparator/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/../FileContentComparator/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../FileContentComparator/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../FileContentComparator/FileContentComparator.iml" afterPath="$PROJECT_DIR$/../FileContentComparator/FileContentComparator.iml" />
+      <change beforePath="$PROJECT_DIR$/../FileContentComparator/config.properties" afterPath="$PROJECT_DIR$/../FileContentComparator/config.properties" />
+      <change beforePath="$PROJECT_DIR$/../FileContentComparator/pom.xml" afterPath="$PROJECT_DIR$/../FileContentComparator/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/ListFilesUtil.java" afterPath="$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/ListFilesUtil.java" />
+      <change beforePath="$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/PropertyUtil.java" afterPath="$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/PropertyUtil.java" />
+      <change beforePath="$PROJECT_DIR$/../FileContentComparator/src/main/java/main/Main.java" afterPath="$PROJECT_DIR$/../FileContentComparator/src/main/java/main/Main.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,14 +24,19 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../FileContentComparator/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="610">
+              <caret line="93" column="10" lean-forward="false" selection-start-line="93" selection-start-column="10" selection-end-line="93" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1529">
-              <caret line="94" column="114" selection-start-line="94" selection-start-column="114" selection-end-line="94" selection-end-column="114" />
+            <state relative-caret-position="34">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,26 +44,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateHtmlDocument.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/CreateHtmlDocument.java">
+      <file leaf-file-name="08_27_2018_19_44_report.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../FileContentComparator/08_27_2018_19_44_report.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-969">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PropertyUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/PropertyUtil.java">
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../FileContentComparator/config.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,8 +67,9 @@
       <file leaf-file-name="ListFilesUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/ListFilesUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="323">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,6 +81,23 @@
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;/&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>propertyUtil</replace>
+      <replace>propertyUtil.pathSeparator()</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../FileContentComparator" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
     </option>
   </component>
   <component name="IdeDocumentHistory">
@@ -87,6 +115,31 @@
         <option value="$PROJECT_DIR$/src/main/java/CompareTool/PropertyUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/CompareTool/CreateHtmlDocument.java" />
         <option value="$PROJECT_DIR$/src/main/java/main/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/log4j.properties" />
+        <option value="$PROJECT_DIR$/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareTool/PropertyUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/main/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareTool/PDFComparator.java" />
+        <option value="$PROJECT_DIR$/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareTool/TXTandCSVComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareTool/PropertyUtil.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareTool/TXTandCSVComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareTool/PDFComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareTool/HashGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareTool/PropertyUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareTool/ListFilesUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompareTool/Comparator.java" />
+        <option value="$PROJECT_DIR$/config.properties" />
       </list>
     </option>
   </component>
@@ -119,19 +172,27 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="1299" />
-    <option name="height" value="743" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,56 +203,36 @@
             <path>
               <item name="FileContentComparator" type="b2602c69:ProjectViewProjectNode" />
               <item name="FileContentComparator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileContentComparator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileContentComparator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileContentComparator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileContentComparator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileContentComparator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileContentComparator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileContentComparator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileContentComparator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileContentComparator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileContentComparator" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FileContentComparator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FileContentComparator\src\main\resources" />
       <recent name="D:\FileContentComparator" />
+      <recent name="D:\FileContentComparator\src\main\java\main" />
+      <recent name="D:\FileContentComparator\src" />
+      <recent name="D:\FileContentComparator\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -209,22 +250,46 @@
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="HEIGHT" value="0" />
+      <option name="WIDTH" value="0" />
+      <module />
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="FileContentComparator" />
-      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
-      <extension name="coverage">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
           <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="10.0" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FileContentComparator" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -234,13 +299,17 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
+      <envs />
       <patterns />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -253,20 +322,26 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
+      <envs />
       <properties />
       <listeners />
     </configuration>
     <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -291,36 +366,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4978678" weight="0.32998884" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.510661" side_tool="true" visible="true" weight="0.22905028" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936034" weight="0.22122905" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.48933902" visible="true" weight="0.22905028" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26545843" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924242" weight="0.39965695" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection Results" order="8" sideWeight="0.49946696" weight="0.32960895" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4978678" weight="0.32960895" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4989339" weight="0.32960895" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.4968017" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22073579" sideWeight="0.5154584" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22073579" sideWeight="0.48454157" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22853957" sideWeight="0.48507464" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26652452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39965695" sideWeight="0.49924242" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.49946696" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.49573562" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -328,107 +402,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/main/Main.java</url>
-          <line>20</line>
-          <properties />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="17" selection-end-column="95" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34426">
-          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/FileContentComparator.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="130" selection-start-line="130" selection-end-line="130" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report06_14_2018_13_11.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report06_14_2018_13_16.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report_06_14_2018_13_18.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report_06_14_2018_13_21.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report_06_14_2018_13_28.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report_06_14_2018_13_25.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report_06_14_2018_13_42.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report_06_14_2018_13_44.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report_06_14_2018_13_48.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report_06_14_2018_13_45.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report_06_14_2018_15_05_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report_06_14_2018_15_06_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_10_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_09_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_11_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_12_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_24_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_26_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_29_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_31_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_33_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_34_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_37_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_38_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_41_report.html" />
     <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_42_report.html" />
     <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_43_report.html" />
     <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_47_report.html" />
@@ -436,58 +414,84 @@
     <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_50_report.html" />
     <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_51_report.html" />
     <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_15_52_report.html" />
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_16_05_report.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_16_08_report.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_16_09_report.html">
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_16_05_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_16_08_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_14_2018_16_09_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_09_54_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_09_55_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/applicationLogs.log" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/resources/logback.xml" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/application.log" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_11_54_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_12_01_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_12_05_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_12_06_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_12_22_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_12_29_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_12_30_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_12_45_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_13_15_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_13_42_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_13_41_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_13_43_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_13_51_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/06_20_2018_13_55_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/07_05_2018_11_36_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/07_05_2018_11_37_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/07_05_2018_11_54_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/07_05_2018_11_56_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-99" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        <state relative-caret-position="610">
+          <caret line="93" column="10" lean-forward="false" selection-start-line="93" selection-start-column="10" selection-end-line="93" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/07_05_2018_12_20_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/07_05_2018_12_22_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/07_05_2018_12_32_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/07_05_2018_12_35_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/07_05_2018_13_41_report.html" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/07_05_2018_14_04_report.html" />
     <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/ListFilesUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/PropertyUtil.java">
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/HashGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/CreateHtmlDocument.java" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/PropertyUtil.java" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/Comparator.java" />
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/config.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/CompareTool/CreateHtmlDocument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../FileContentComparator/src/main/java/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1529">
-          <caret line="94" column="114" selection-start-line="94" selection-start-column="114" selection-end-line="94" selection-end-column="114" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FileContentComparator/08_27_2018_19_44_report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -531,7 +535,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>10.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
